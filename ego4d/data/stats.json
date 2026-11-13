@@ -1,0 +1,21 @@
+{
+ "paper_totals": {
+  "hours": 3670,
+  "camera_wearers": 931,
+  "locations": 74,
+  "countries": 9,
+  "narration_sentences": 3850000,
+  "benchmarks": {
+   "Episodic memory: VQ-2D": "432.9 h, 5,831 clips, 22,602 queries",
+   "Episodic memory: VQ-3D": "13 h, 159 clips",
+   "Episodic memory: Moments (MQ)": "328.7 h, 2,522 clips, ~22.2k instances, 110 categories",
+   "Episodic memory: NLQ": "227.1 h, 1,659 clips, 19.2K queries",
+   "Hands and objects": "196.2 h, 88,585 clips of 8 s",
+   "Forecasting": "110.5 h, 1,498 clips",
+   "AV diarization": "47.7 h, 572 clips",
+   "Social": "47.7 h, 572 clips"
+  },
+  "source": "Ego4D paper (arXiv 2110.07058); Goal-Step (NeurIPS 2023) adds 48K step segments over 430 h"
+ },
+ "access": "license agreement at ego4d-data.org, AWS credentials by email, downloaded with the ego4d CLI; not on the cluster"
+}

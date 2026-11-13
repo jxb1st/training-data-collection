@@ -1,0 +1,946 @@
+[
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "0DD62",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/Charades/0DD62.mp4",
+  "source_dataset": "Charades",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nElaborate on the visual and narrative elements of the video in detail."
+   },
+   {
+    "from": "gpt",
+    "value": "The video begins with an elderly man dressed in a white traditional outfit standing in a room. He is facing a wooden desk cluttered with various items, including books, a yellow ball, and a framed photograph. The room is decorated with a bed featuring a patterned bedspread, a chair, and a window with yellow curtains adorned with floral designs. The man appears to be looking at the items on the desk. He reaches out to pick up the framed photograph from the desk and holds it close to his chest, appearing to be in a moment of reflection or sentimentality. The scene continues with the elderly man still holding the framed photograph close to his chest, standing near the wooden desk. The room's decor remains unchanged, with the same bed, chair, and window with yellow floral curtains. The man looks upwards, possibly in deep thought or reflection, maintaining his reflective posture. The video wraps up with the man still standing near the desk, holding the photograph and looking upwards, lost in his thoughts."
+   }
+  ],
+  "clip": "llava/caption-0dd62.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "W7EDM",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/Charades/W7EDM.mp4",
+  "source_dataset": "Charades",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nExplore the thematic and visual aspects of the video comprehensively."
+   },
+   {
+    "from": "gpt",
+    "value": "The video begins with a view of a cozy room featuring a bed adorned with a green bedspread, several pillows in blue and patterned designs, a pink bag, a remote control, and some magazines or newspapers. The wall behind the bed is decorated with a calendar and some papers pinned to it. A person wearing a dark green hoodie and blue jeans enters the scene and sits on the bed. They put on a pair of blue and white slippers, adjust their position, and reach for the remote control, appearing ready to use it.\n\nThe scene continues with the same person sitting on the bed, surrounded by the same items. They adjust their position, lie down, and reach towards the pink bag, searching for something inside. After a few moments, they retrieve a small bowl from the bag and sit back up, placing the bowl on the bed beside them. The person then holds a small object in their hand, examining it closely.\n\nThe video wraps up with the person still sitting on the bed, now holding the small object and examining it closely. The room's details remain consistent, with the calendar and papers on the wall, and the various items around the bed. The person places the small object on the bed beside them and reaches for the remote control, seemingly ready to use it."
+   }
+  ],
+  "clip": "llava/caption-w7edm.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "75RPN",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/Charades/75RPN.mp4",
+  "source_dataset": "Charades",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nShare a detailed breakdown of the video's storyline and visuals."
+   },
+   {
+    "from": "gpt",
+    "value": "The video begins with a view of a room featuring a wooden closet with its door open, revealing various clothes hanging and stacked inside. A person wearing a light blue sweatshirt and dark pants enters the frame and approaches the closet. The person starts by reaching up to the top shelf of the closet, adjusting and moving some clothes around. They then take a piece of clothing from the hanging section and examine it. The person continues to handle the clothing, seemingly organizing or deciding on an outfit. The room also contains a bed with a wooden headboard, a small table with a brass lamp, and a green wall with a light switch. The scene continues with the person still in front of the open closet, holding a piece of clothing in their hands and examining it. They reach up to the top shelf of the closet again, moving some clothes around. They take another piece of clothing from the top shelf and continue to hold and examine the clothes, seemingly organizing or deciding on an outfit. The video maintains this focus on the person organizing or deciding on an outfit in the same room, with the same elements: the wooden closet, bed with a wooden headboard, small table with a brass lamp, and green wall with a light switch. The person remains in front of the open closet, holding and examining pieces of clothing, reaching up to the top shelf, moving clothes around, and continuing to organize or decide on an outfit."
+   }
+  ],
+  "clip": "llava/caption-75rpn.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "1028-8318310610",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/NextQA/1028/8318310610.mp4",
+  "source_dataset": "NextQA",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nCharacterize each scene of the video using a detailed description."
+   },
+   {
+    "from": "gpt",
+    "value": "The video showcases a vibrant dance performance by a group of six young individuals on a stage with a wooden floor and maroon curtains. The backdrop features a large flag with a blue sky and white sun emblem, and a portrait of a person, suggesting a setting of cultural or national significance. The dancers, dressed casually in jeans, jackets, and sneakers, perform a series of synchronized dance moves, including steps, turns, and hand gestures. The dynamic nature of their performance is highlighted through various moments captured in the sequence. The setting appears to be an indoor auditorium or school hall, with chairs and a microphone stand visible in the background, indicating a formal or semi-formal event. The video emphasizes the coordination and energy of the dancers, creating an engaging and lively atmosphere throughout the performance."
+   }
+  ],
+  "clip": "llava/caption-1028-8318310610.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "0007-5334449560",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/NextQA/0007/5334449560.mp4",
+  "source_dataset": "NextQA",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nProvide an exhaustive description of the video content."
+   },
+   {
+    "from": "gpt",
+    "value": "The video features a heartwarming scene of a child in a cozy indoor setting, celebrating their first Christmas. The child is dressed in green pajamas with a white bib and a festive red and white Santa hat embroidered with the text 'My First Christmas' and a small Christmas tree. The room is filled with various toys, including a red toy fire truck, a colorful activity cube, and a blue toy bin, all illuminated by natural light streaming through the windows. The dining area with a table and chairs is visible in the background.\n\nThe child is seen moving around the room, adjusting the Santa hat on their head, and exploring their surroundings. The living area includes a black couch and a white cabinet, adding to the cozy atmosphere. The child eventually gravitates towards the toys, engaging with them and displaying a sense of curiosity and joy.\n\nIn the final part of the video, the child is shown crouching and playing with a yellow toy xylophone on the floor. After a moment of focused play, the child stands up and begins to walk around the room, continuing their exploration. The video wraps up with the child walking towards the dining area, moving away from the toys, capturing a tender moment of discovery and festive cheer."
+   }
+  ],
+  "clip": "llava/caption-0007-5334449560.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "1052-13028692904",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/NextQA/1052/13028692904.mp4",
+  "source_dataset": "NextQA",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nCharacterize each scene of the video using a detailed description."
+   },
+   {
+    "from": "gpt",
+    "value": "The video begins with a baby lying on a carpeted floor, joyfully holding and playing with a soft toy. The baby is dressed in a light-colored, sleeveless outfit adorned with pink and white stripes. In the background, a person dressed in black is busy working at a kitchen counter. The kitchen is equipped with wooden cabinets, a white dishwasher, and a black and silver trash can. As the baby continues to play, a cat with a mix of brown and black fur walks into the frame from the right side, adding a touch of curiosity to the scene. The video develops with the baby still engaged with the soft toy, maintaining the same playful demeanor. The background remains unchanged, with the person in black continuing their tasks at the kitchen counter. The cat is now seen walking in the background, near the kitchen area, subtly enhancing the domestic atmosphere. The video wraps up with a consistent scene of the baby on the carpeted floor, still in the same light-colored, sleeveless outfit with pink and white stripes. The person in black is still present in the background, working at the kitchen counter, and the kitchen setting remains the same with its wooden cabinets, white dishwasher, and black and silver trash can. The cat's presence in the background ties the clips together, creating a coherent and heartwarming narrative of a peaceful domestic moment."
+   }
+  ],
+  "clip": "llava/caption-1052-13028692904.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "v_ciXArKhjAv8",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/activitynet/v_ciXArKhjAv8.mp4",
+  "source_dataset": "activitynet",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nDissect the video's content, explaining each element thoroughly."
+   },
+   {
+    "from": "gpt",
+    "value": "The video takes place in a cozy living room, where a child wearing a light blue shirt is seen interacting joyfully with a small white dog. The child holds a piece of food, which the dog eagerly tries to reach, creating a playful and heartwarming scene. In the background, two large stuffed toys of Mickey Mouse and Minnie Mouse are placed on a shelf, adding a touch of whimsy to the room. A person in a dark green sweatshirt with white text is also present, holding another piece of food, possibly to assist in the interaction. The room exudes a warm and homely atmosphere, with a television and other furniture visible, enhancing the sense of a lived-in, comfortable space. The child moves around, showing the food to the dog, clearly enjoying the playful moment."
+   }
+  ],
+  "clip": "llava/caption-v-cixarkhjav8.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "v_cAmGHiqmnaw",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/activitynet/v_cAmGHiqmnaw.mp4",
+  "source_dataset": "activitynet",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nNarrate the video's unfolding events in a descriptive manner."
+   },
+   {
+    "from": "gpt",
+    "value": "The video begins with a nighttime scene at a rodeo arena, where several people, some wearing cowboy hats, are gathered around a fenced area. A man in a white shirt and cowboy hat prepares to ride a horse. As he exits the gate, he skillfully chases and ropes a calf while riding the horse. The man then dismounts and runs towards the calf, holding the rope to secure it. The background is illuminated by artificial lights, with other spectators and participants watching the event.\n\nThe scene continues with the man in the white shirt and cowboy hat securing the roped calf. Kneeling on the ground, he holds the calf down while several spectators and participants, some standing and others sitting on the bleachers, observe. A horse, still attached to the rope, stands nearby. The man successfully ties the calf's legs together and stands up, signaling the completion of his task. He then walks away from the calf, with the audience continuing to watch the event.\n\nThe final scene shows the man in the white shirt and cowboy hat standing near the horse, which remains attached to the rope tied to the calf lying on the ground. Another man, also in a cowboy hat, adjusts the saddle of the horse. The background features several spectators and participants, some sitting on the bleachers and others standing. The man in the white shirt mounts the horse, preparing to continue the rodeo event. The video concludes with the man on the horse, ready to proceed, while the calf remains tied on the ground and the spectators observe the scene."
+   }
+  ],
+  "clip": "llava/caption-v-camghiqmnaw.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "v_iiQQ8xZvZok",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/activitynet/v_iiQQ8xZvZok.mp4",
+  "source_dataset": "activitynet",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nConvey the narrative and visual elements of the video in detail."
+   },
+   {
+    "from": "gpt",
+    "value": "The video begins with a man in a purple sweater and pink shirt standing in front of a large audience, participating in a darts competition. The text 'ON THE OCHE' and 'TV Times Pro-Am Darts' appears on the screen, indicating the event and its broadcast. The scene transitions to a woman in a black jacket and white shirt, also participating in the competition, with the same text displayed. Another man in a dark jacket and white shirt is shown next, also in front of an audience, participating in the competition. The scene then widens to show the darts competition area, featuring a man in a yellow shirt and black pants standing near a dartboard, and another man in a white shirt and blue pants retrieving darts from the board. The background includes a Christmas tree and a sign that reads 'British Darts Organisation' and 'Unicorn,' adding a festive atmosphere to the event.\n\nThe video continues to focus on the darts competition area. The man in the yellow shirt and black pants remains near the dartboard, while the man in the white shirt and blue pants walks away from it. A child in a dark outfit with a white collar is also present, engaged in the scene. The festive atmosphere is maintained with the Christmas tree and decorations, and a sign that reads 'British Darts Organisation' and 'Unicorn' is visible in the background. Another man, seated and wearing a dark suit, is seen writing or recording something at a table, adding to the event's official nature.\n\nThe video then shows a close-up of the dartboard with several darts stuck in it. The focus shifts to the child in the dark outfit, who is being guided by a man in a patterned shirt and tie. The man appears to be encouraging or instructing the child, providing a heartwarming moment in the competition. The video concludes with a close-up of the child, with the man still offering guidance, highlighting the supportive and inclusive nature of the event."
+   }
+  ],
+  "clip": "llava/caption-v-iiqq8xzvzok.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "5c9e8ad1-135f-4f01-a498-274835fba320",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/ego4d/5c9e8ad1-135f-4f01-a498-274835fba320.mp4",
+  "source_dataset": "ego4d",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nElaborate on all aspects of the video you are viewing."
+   },
+   {
+    "from": "gpt",
+    "value": "The video begins with a person standing outdoors on a patch of dirt and grass, dressed in a white shirt with a graphic design and tan pants. They are holding a small digital scale with a blue screen. Scattered around them are various items, including a large black bucket, a white plastic container, a white cup, a green bottle, and a packet of 'Тройной' (Troynoy) detergent. The person places the digital scale on the ground and starts measuring a substance, carefully pouring it into a small container on the scale to ensure the correct measurement. The scene develops as the person adjusts the amount of the substance on the scale, likely aiming for precision.\n\nThe perspective shifts to a top-down view of the same person, now sitting on the same patch of dirt and grass. The digital scale with the blue screen is still on the ground, surrounded by the same scattered items. The person is now measuring a green liquid substance using the digital scale, adjusting the amount in the small container to achieve the correct measurement. They then pick up the packet of 'Тройной' (Troynoy) detergent and begin pouring its contents into the container on the scale, focusing on achieving a precise measurement. The video wraps up with the person continuing to pour the detergent, emphasizing the meticulous process of measurement."
+   }
+  ],
+  "clip": "llava/caption-5c9e8ad1-135f-4f01-a498-274835fba320.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "406-MIt0YvVC2iY-split_3",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/youcook2/406/MIt0YvVC2iY/split_3.mp4",
+  "source_dataset": "youcook2",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nNarrate the video's unfolding events in a descriptive manner."
+   },
+   {
+    "from": "gpt",
+    "value": "The video showcases a detailed and vibrant cooking process, beginning with a close-up of a hand reaching into a glass bowl filled with sliced cucumbers and red bell peppers. The scene is set on a wooden cutting board, surrounded by various fresh ingredients such as yellow bell pepper strips, sliced red and green chili peppers, fresh herbs, and a pile of white noodles. Bottles of sauces, including one labeled 'Blue Dragon,' are visible in the background, indicating the use of diverse flavors in the dish. The hand meticulously assembles the dish by placing the sliced cucumbers and red bell peppers onto a bed of white noodles, followed by adding yellow bell pepper strips. The focus remains on the careful arrangement of the ingredients, emphasizing the freshness and vibrant colors of the components used in the preparation."
+   }
+  ],
+  "clip": "llava/caption-406-mit0yvvc2iy-split-3.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "106-UHmKlQ2OkTM-split_2",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/youcook2/106/UHmKlQ2OkTM/split_2.mp4",
+  "source_dataset": "youcook2",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nDescribe every scene and its significance in the video."
+   },
+   {
+    "from": "gpt",
+    "value": "The video features a woman in a kitchen, dressed in a green long-sleeved shirt, engaged in the process of preparing food. The kitchen is well-equipped with wooden cabinets, a black countertop, and a window that offers a view of lush greenery outside. Spread across the counter are various kitchen utensils and ingredients, including a red pot, a measuring cup, a whisk, and containers filled with chopped ingredients. Decorative elements such as a basket of bread and a vase with flowers add a homely touch to the setting. The woman is seen stirring a mixture in a large transparent bowl with an orange spatula. She continues to mix the contents diligently, surrounded by the organized chaos of her cooking preparations. As she stirs, the scene remains consistent, with the same kitchen setup and decorative elements. Eventually, she stops stirring and lifts the bowl, seemingly ready to transfer the mixture. She glances around the kitchen, possibly contemplating her next step in the cooking process, bringing a sense of anticipation and focus to the culinary task at hand."
+   }
+  ],
+  "clip": "llava/caption-106-uhmklq2oktm-split-2.mp4"
+ },
+ {
+  "group": "caption",
+  "kind": "caption",
+  "id": "425-GJzuTXdVQcE-split_8",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/youcook2/425/GJzuTXdVQcE/split_8.mp4",
+  "source_dataset": "youcook2",
+  "n_turns": 1,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nProvide an exhaustive description of the video content."
+   },
+   {
+    "from": "gpt",
+    "value": "The video begins with a close-up of a pan containing sautéed onions and green curry leaves, which are being cooked until they are caramelized. A hand holding a bowl filled with chopped boiled potatoes then adds them to the pan with the sautéed onions, using a wooden spatula to scrape the remaining potatoes from the bowl. The pan is now filled with a mixture of sautéed onions and a generous amount of boiled potatoes, ready to be further cooked or mixed. The scene develops as a hand holding a wooden spatula stirs the mixture, ensuring that the potatoes are well combined with the sautéed onions and curry leaves. The ingredients are mixed thoroughly, making sure that the potatoes are evenly distributed and coated with the flavors from the onions and curry leaves. The mixture in the pan appears well-mixed and ready for the next step in the cooking process. The video wraps up with a close-up of the pan filled with the mixture of sautéed onions, green curry leaves, and boiled potatoes. The hand continues to stir the mixture vigorously, ensuring that the ingredients are well combined. The onions show a caramelized texture and the potatoes take on a golden hue, indicating that the mixture is cooking well. The video concludes with the mixture in the pan appearing well-mixed and ready for the next step in the cooking process."
+   }
+  ],
+  "clip": "llava/caption-425-gjzutxdvqce-split-8.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "0MK2C",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/Charades/0MK2C.mp4",
+  "source_dataset": "Charades",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhere does the video take place?"
+   },
+   {
+    "from": "gpt",
+    "value": "The video takes place in a house, specifically focusing on a staircase."
+   },
+   {
+    "from": "human",
+    "value": "What color is the carpet on the staircase?"
+   },
+   {
+    "from": "gpt",
+    "value": "The carpet on the staircase is green."
+   },
+   {
+    "from": "human",
+    "value": "What is placed on one of the steps of the staircase?"
+   },
+   {
+    "from": "gpt",
+    "value": "A red and white striped bag is placed on one of the steps."
+   }
+  ],
+  "clip": "llava/open-ended-0mk2c.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "58YA5",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/Charades/58YA5.mp4",
+  "source_dataset": "Charades",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhat is the setting of the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The video is set in a cozy living room with wooden flooring, a red armchair, and a table with chairs in the background."
+   },
+   {
+    "from": "human",
+    "value": "Who are the main characters in the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The main characters are a person in a red shirt and a black dog."
+   },
+   {
+    "from": "human",
+    "value": "What action does the person in the red shirt take during the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The person in the red shirt stands up, walks towards the dining area, picks up a small electronic device, and then focuses on it intently."
+   }
+  ],
+  "clip": "llava/open-ended-58ya5.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "O3SQK",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/Charades/O3SQK.mp4",
+  "source_dataset": "Charades",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhat is located next to the person sitting on the wooden stool?"
+   },
+   {
+    "from": "gpt",
+    "value": "A wicker laundry basket with a lid, a white plastic container, and a stack of folded clothes on a shelf are located next to the person."
+   },
+   {
+    "from": "human",
+    "value": "Why is the person in the laundry room placing clothes into the washing machine?"
+   },
+   {
+    "from": "gpt",
+    "value": "The person is placing clothes into the washing machine to clean them."
+   },
+   {
+    "from": "human",
+    "value": "What are the main settings of the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The main settings of the video are a laundry room and another room where a person is sitting on a wooden stool eating."
+   }
+  ],
+  "clip": "llava/open-ended-o3sqk.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "1052-13028692904",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/NextQA/1052/13028692904.mp4",
+  "source_dataset": "NextQA",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhere does the video take place?"
+   },
+   {
+    "from": "gpt",
+    "value": "The video takes place in a kitchen."
+   },
+   {
+    "from": "human",
+    "value": "Who are the main characters in the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The main characters in the video are a baby, a cat, and a person dressed in black."
+   },
+   {
+    "from": "human",
+    "value": "What is the baby doing in the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The baby is lying on a carpeted floor, joyfully holding and playing with a soft toy."
+   }
+  ],
+  "clip": "llava/open-ended-1052-13028692904.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "1102-9177467036",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/NextQA/1102/9177467036.mp4",
+  "source_dataset": "NextQA",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nIs the cowboy wearing a hat?"
+   },
+   {
+    "from": "gpt",
+    "value": "Yes."
+   },
+   {
+    "from": "human",
+    "value": "What is the main activity being showcased in the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The main activity being showcased is the cowboy riding a horse and demonstrating his riding skills at a rodeo event."
+   },
+   {
+    "from": "human",
+    "value": "What is the first action the cowboy performs in the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The first action the cowboy performs is riding a horse at high speed at the rodeo event."
+   }
+  ],
+  "clip": "llava/open-ended-1102-9177467036.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "0016-4987887725",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/NextQA/0016/4987887725.mp4",
+  "source_dataset": "NextQA",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nHow does the environment contribute to the video's ambiance?"
+   },
+   {
+    "from": "gpt",
+    "value": "The rocky foreground, the body of water, and the distant shoreline with trees contribute to the natural and tranquil ambiance of the video."
+   },
+   {
+    "from": "human",
+    "value": "What dynamic elements are introduced towards the end of the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "Towards the end of the video, several people pass by in the background, adding a dynamic element to the scene."
+   },
+   {
+    "from": "human",
+    "value": "Can you describe one of the passersby mentioned in the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "One passerby is wearing a green shirt and beige pants, carrying a woven bag."
+   }
+  ],
+  "clip": "llava/open-ended-0016-4987887725.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "v_goXkohySkU8",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/activitynet/v_goXkohySkU8.mp4",
+  "source_dataset": "activitynet",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nHow many discs does Jim Fox hold when performing tricks with the dog?"
+   },
+   {
+    "from": "gpt",
+    "value": "Jim Fox holds two discs."
+   },
+   {
+    "from": "human",
+    "value": "Does the video include a message in Korean?"
+   },
+   {
+    "from": "gpt",
+    "value": "Yes."
+   },
+   {
+    "from": "human",
+    "value": "How does the dog interact with Jim Fox during the tricks?"
+   },
+   {
+    "from": "gpt",
+    "value": "The dog weaves through Jim's legs and jumps onto his back."
+   }
+  ],
+  "clip": "llava/open-ended-v-goxkohysku8.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "v_7p99ez6MEeo",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/activitynet/v_7p99ez6MEeo.mp4",
+  "source_dataset": "activitynet",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nHow do the players keep the game dynamic and energetic?"
+   },
+   {
+    "from": "gpt",
+    "value": "The players keep the game dynamic and energetic by diving and running to keep the ball in play."
+   },
+   {
+    "from": "human",
+    "value": "Are there any spectators watching the game?"
+   },
+   {
+    "from": "gpt",
+    "value": "Yes, a few spectators stand around the court, watching the game with interest."
+   },
+   {
+    "from": "human",
+    "value": "What is another player, besides the one in the red shirt, described as wearing?"
+   },
+   {
+    "from": "gpt",
+    "value": "Another player is described as wearing a gray shirt and dark shorts."
+   }
+  ],
+  "clip": "llava/open-ended-v-7p99ez6meeo.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "5c9e8ad1-135f-4f01-a498-274835fba320",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/ego4d/5c9e8ad1-135f-4f01-a498-274835fba320.mp4",
+  "source_dataset": "ego4d",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhy does the person adjust the amount of the substance on the scale?"
+   },
+   {
+    "from": "gpt",
+    "value": "The person adjusts the amount of the substance on the scale likely aiming for precision in measurement."
+   },
+   {
+    "from": "human",
+    "value": "What is the setting of the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The setting of the video is outdoors on a patch of dirt and grass."
+   },
+   {
+    "from": "human",
+    "value": "What is the person wearing in the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The person is dressed in a white shirt with a graphic design and tan pants."
+   }
+  ],
+  "clip": "llava/open-ended-5c9e8ad1-135f-4f01-a498-274835fba320.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "107-5I-_uJQ0t1o-split_2",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/youcook2/107/5I-_uJQ0t1o/split_2.mp4",
+  "source_dataset": "youcook2",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhy are there water stains on the cutting board?"
+   },
+   {
+    "from": "gpt",
+    "value": "The water stains on the cutting board indicate the freshness of the squid."
+   },
+   {
+    "from": "human",
+    "value": "Where does the squid preparation take place?"
+   },
+   {
+    "from": "gpt",
+    "value": "The squid preparation takes place on a wooden cutting board."
+   },
+   {
+    "from": "human",
+    "value": "What is the person in the video doing?"
+   },
+   {
+    "from": "gpt",
+    "value": "The person is preparing a squid for cooking by cutting it into pieces, rings, and strips."
+   }
+  ],
+  "clip": "llava/open-ended-107-5i-ujq0t1o-split-2.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "401-67ilysu8CeU-split_3",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/youcook2/401/67ilysu8CeU/split_3.mp4",
+  "source_dataset": "youcook2",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nHow many main ingredients are visible in the wok?"
+   },
+   {
+    "from": "gpt",
+    "value": "Two main ingredients are visible in the wok: the red and orange sauce and the marinated chicken pieces."
+   },
+   {
+    "from": "human",
+    "value": "Is the sauce in the wok bubbling?"
+   },
+   {
+    "from": "gpt",
+    "value": "Yes."
+   },
+   {
+    "from": "human",
+    "value": "How are the chicken pieces added to the wok?"
+   },
+   {
+    "from": "gpt",
+    "value": "The chicken pieces are added one by one, covering the surface of the sauce."
+   }
+  ],
+  "clip": "llava/open-ended-401-67ilysu8ceu-split-3.mp4"
+ },
+ {
+  "group": "open-ended",
+  "kind": "open-ended",
+  "id": "124-qOB709GWcE8-split_2",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/youcook2/124/qOB709GWcE8/split_2.mp4",
+  "source_dataset": "youcook2",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhere does the video take place?"
+   },
+   {
+    "from": "gpt",
+    "value": "The video takes place in a kitchen."
+   },
+   {
+    "from": "human",
+    "value": "What is the first object shown in the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The first object shown is a shiny, metallic colander placed over a pot on a stove."
+   },
+   {
+    "from": "human",
+    "value": "What suggests that a meal is being prepared in the video?"
+   },
+   {
+    "from": "gpt",
+    "value": "The presence of a package of Mission Tortilla Rounds, some yellow items in a plastic bag, and a plate with a poppy seed-covered bread roll suggests that a meal is being prepared."
+   }
+  ],
+  "clip": "llava/open-ended-124-qob709gwce8-split-2.mp4"
+ },
+ {
+  "group": "multiple-choice",
+  "kind": "multiple-choice",
+  "id": "CX5ZM",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/Charades/CX5ZM.mp4",
+  "source_dataset": "Charades",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhat is the person doing at the end of the video?\nA. Cooking\nB. Sitting down\nC. Sweeping near the stove\nD. Washing dishes\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "C."
+   },
+   {
+    "from": "human",
+    "value": "Where is the person focusing their cleaning efforts in the video?\nA. Near the sink\nB. Near the window\nC. Near the stove and refrigerator\nD. Near the dining table\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "C."
+   },
+   {
+    "from": "human",
+    "value": "Why does the person bend down while sweeping?\nA. To tie their shoes\nB. To reach under the cabinets and appliances\nC. To rest\nD. To pick up something\nPlease provide your answer by stating the letter followed by the full option."
+   },
+   {
+    "from": "gpt",
+    "value": "B. To reach under the cabinets and appliances."
+   }
+  ],
+  "clip": "llava/multiple-choice-cx5zm.mp4"
+ },
+ {
+  "group": "multiple-choice",
+  "kind": "multiple-choice",
+  "id": "3EIRZ",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/Charades/3EIRZ.mp4",
+  "source_dataset": "Charades",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhere does the video take place?\nA. A living room\nB. A garage\nC. A laundry room\nD. A kitchen\nPlease provide your answer by stating the letter followed by the full option."
+   },
+   {
+    "from": "gpt",
+    "value": "C. A laundry room."
+   },
+   {
+    "from": "human",
+    "value": "What is the person wearing in the video?\nA. A white dress\nB. A red shirt and a green skirt\nC. A blue shirt and jeans\nD. A black suit\nPlease provide your answer by stating the letter followed by the full option."
+   },
+   {
+    "from": "gpt",
+    "value": "B. A red shirt and a green skirt."
+   },
+   {
+    "from": "human",
+    "value": "What does the person do after entering the room?\nA. They sit down on a chair\nB. They inspect the mess on the floor\nC. They turn on the washing machine\nD. They start cleaning the room\nPlease provide your answer by stating the letter followed by the full option."
+   },
+   {
+    "from": "gpt",
+    "value": "B. They inspect the mess on the floor."
+   }
+  ],
+  "clip": "llava/multiple-choice-3eirz.mp4"
+ },
+ {
+  "group": "multiple-choice",
+  "kind": "multiple-choice",
+  "id": "XF93D",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/Charades/XF93D.mp4",
+  "source_dataset": "Charades",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhat is the main focus of the video?\nA. The person in a state of distress or exhaustion\nB. The person organizing the cabinets\nC. The person fixing the washer-dryer unit\nD. The person cleaning the laundry area\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "A."
+   },
+   {
+    "from": "human",
+    "value": "Which direction does the person enter the scene from?\nA. From the right\nB. From above\nC. From below\nD. From the left\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "A."
+   },
+   {
+    "from": "human",
+    "value": "Does the camera move during the video?\nA. No, it remains static\nB. Yes, it follows the person\nC. Yes, it pans left and right\nD. Yes, it zooms in and out\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "A."
+   }
+  ],
+  "clip": "llava/multiple-choice-xf93d.mp4"
+ },
+ {
+  "group": "multiple-choice",
+  "kind": "multiple-choice",
+  "id": "1201-2704413711",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/NextQA/1201/2704413711.mp4",
+  "source_dataset": "NextQA",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhere does the video take place?\nA. In a forest\nB. In a parking lot\nC. In a park\nD. In a backyard\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "B."
+   },
+   {
+    "from": "human",
+    "value": "What time of day is it in the video?\nA. Evening\nB. Night\nC. Afternoon\nD. Morning\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "A."
+   },
+   {
+    "from": "human",
+    "value": "What breed of dog is featured in the video?\nA. Labrador Retriever\nB. Beagle\nC. German Shepherd\nD. Golden Retriever\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "C."
+   }
+  ],
+  "clip": "llava/multiple-choice-1201-2704413711.mp4"
+ },
+ {
+  "group": "multiple-choice",
+  "kind": "multiple-choice",
+  "id": "203-Qh_rtJaCpXs-split_6",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/youcook2/203/Qh_rtJaCpXs/split_6.mp4",
+  "source_dataset": "youcook2",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhere does the video take place?\nA. A bakery\nB. A professional kitchen\nC. A home kitchen\nD. An outdoor barbecue\nPlease provide your answer by stating the letter followed by the full option."
+   },
+   {
+    "from": "gpt",
+    "value": "B. A professional kitchen."
+   },
+   {
+    "from": "human",
+    "value": "What is the chef wearing?\nA. A black chef's coat and a red apron\nB. A blue chef's coat and a white apron\nC. A white t-shirt and jeans\nD. A white chef's coat and a striped apron\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "D."
+   },
+   {
+    "from": "human",
+    "value": "What does the chef sprinkle into the sauce?\nA. Pepper\nB. Salt\nC. Sugar\nD. Flour\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "B."
+   }
+  ],
+  "clip": "llava/multiple-choice-203-qh-rtjacpxs-split-6.mp4"
+ },
+ {
+  "group": "multiple-choice",
+  "kind": "multiple-choice",
+  "id": "230-Ay55c3jSbeI-split_1",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/youcook2/230/Ay55c3jSbeI/split_1.mp4",
+  "source_dataset": "youcook2",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhat happens after the sauce is poured over the chicken strips?\nA. The chicken strips are placed on the skewers\nB. The bowl is set aside and a red whisk is used to mix the chicken strips\nC. The vegetables are chopped\nD. The hand continues to whisk the sauce\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "B."
+   },
+   {
+    "from": "human",
+    "value": "Where are the raw chicken strips placed in the video?\nA. On a cutting board\nB. In a clear glass bowl\nC. In a white rectangular dish\nD. On a wooden skewer\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "C."
+   },
+   {
+    "from": "human",
+    "value": "Why is the sauce poured over the chicken strips?\nA. To marinate the chicken strips\nB. To discard the sauce\nC. To cook the chicken strips\nD. To clean the bowl\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "A."
+   }
+  ],
+  "clip": "llava/multiple-choice-230-ay55c3jsbei-split-1.mp4"
+ },
+ {
+  "group": "multiple-choice",
+  "kind": "multiple-choice",
+  "id": "422-PqyqB_FkWrQ-split_0",
+  "data_source": "0_30_s_academic_v0_1",
+  "video": "academic_source/youcook2/422/PqyqB_FkWrQ/split_0.mp4",
+  "source_dataset": "youcook2",
+  "n_turns": 5,
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nWhat happens after the noodles are placed into the boiling water?\nA. The water stops boiling\nB. The hand lifts more noodles from the colander\nC. The colander is filled with more noodles\nD. The noodles are seen boiling in the pot\nPlease provide your answer by stating the letter followed by the full option."
+   },
+   {
+    "from": "gpt",
+    "value": "D. The noodles are seen boiling in the pot."
+   },
+   {
+    "from": "human",
+    "value": "Where is the blue plastic colander located in relation to the pot of boiling water?\nA. In front of the pot\nB. Behind the pot\nC. To the left of the pot\nD. To the right of the pot\nPlease provide your answer by stating the letter followed by the full option."
+   },
+   {
+    "from": "gpt",
+    "value": "D. To the right of the pot."
+   },
+   {
+    "from": "human",
+    "value": "Why is the hand using chopsticks to stir the noodles in the pot?\nA. To cool down the water\nB. To prevent the noodles from sticking together\nC. To add flavor to the noodles\nD. To remove the noodles from the pot\nPlease respond with only the letter of the correct answer."
+   },
+   {
+    "from": "gpt",
+    "value": "B."
+   }
+  ],
+  "clip": "llava/multiple-choice-422-pqyqb-fkwrq-split-0.mp4"
+ }
+]

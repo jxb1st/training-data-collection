@@ -1,0 +1,70 @@
+{
+ "paper_totals": {
+  "videos": 817000,
+  "chapters": 7000000,
+  "source": "paper abstract (817K videos, 7M chapters)"
+ },
+ "subsets_on_hub": {
+  "l100_val": {
+   "videos": 100,
+   "chapters": 1041,
+   "chapters_per_video": {
+    "n": 100,
+    "min": 2.0,
+    "median": 8.0,
+    "mean": 10.4,
+    "max": 34.0,
+    "sum_hours": 0.3
+   },
+   "duration_s": {
+    "n": 100,
+    "min": 1800.8,
+    "median": 2582.5,
+    "mean": 2567.8,
+    "max": 3597.7,
+    "sum_hours": 71.3
+   }
+  },
+  "m100_val": {
+   "videos": 100,
+   "chapters": 807,
+   "chapters_per_video": {
+    "n": 100,
+    "min": 2.0,
+    "median": 7.0,
+    "mean": 8.1,
+    "max": 31.0,
+    "sum_hours": 0.2
+   },
+   "duration_s": {
+    "n": 100,
+    "min": 901.0,
+    "median": 1214.4,
+    "mean": 1245.2,
+    "max": 1763.2,
+    "sum_hours": 34.6
+   }
+  },
+  "s100_val": {
+   "videos": 100,
+   "chapters": 640,
+   "chapters_per_video": {
+    "n": 100,
+    "min": 2.0,
+    "median": 6.0,
+    "mean": 6.4,
+    "max": 18.0,
+    "sum_hours": 0.2
+   },
+   "duration_s": {
+    "n": 100,
+    "min": 95.5,
+    "median": 498.4,
+    "mean": 497.9,
+    "max": 897.9,
+    "sum_hours": 13.8
+   }
+  }
+ },
+ "subset_note": "s/m/l = short/medium/long validation subsets of 100 videos each, from the Chapter-Llama release of VidChapters-7M"
+}

@@ -1,0 +1,83 @@
+{
+ "card_totals": {
+  "LLaVA-Video-178K (new)": {
+   "captions": 178510,
+   "open-ended QA": 960792,
+   "multiple-choice QA": 196198
+  },
+  "NeXT-QA": {
+   "open-ended QA": 17090,
+   "multiple-choice QA": 17024
+  },
+  "ActivityNetQA": {
+   "open-ended QA": 23530
+  },
+  "PerceptionTest": {
+   "open-ended QA": 1803
+  },
+  "LLaVA-Hound": {
+   "captions": 15000,
+   "open-ended QA": 240000
+  },
+  "source": "dataset card"
+ },
+ "subset_0_30_s_academic": {
+  "caption": {
+   "records": 11985,
+   "videos": 11985,
+   "sources": {
+    "youcook2": 5860,
+    "Charades": 3682,
+    "NextQA": 1392,
+    "activitynet": 927,
+    "ego4d": 124
+   },
+   "turns_per_record": {
+    "n": 11985,
+    "min": 1.0,
+    "median": 1.0,
+    "mean": 1.0,
+    "max": 1.0,
+    "sum_hours": 3.3
+   }
+  },
+  "open-ended QA": {
+   "records": 48468,
+   "videos": 12147,
+   "sources": {
+    "youcook2": 23909,
+    "Charades": 14623,
+    "NextQA": 5594,
+    "activitynet": 3843,
+    "ego4d": 499
+   },
+   "turns_per_record": {
+    "n": 48468,
+    "min": 1.0,
+    "median": 5.0,
+    "mean": 4.6,
+    "max": 5.0,
+    "sum_hours": 61.3
+   }
+  },
+  "multiple-choice QA": {
+   "records": 5753,
+   "videos": 1455,
+   "sources": {
+    "youcook2": 3090,
+    "Charades": 1553,
+    "NextQA": 667,
+    "activitynet": 395,
+    "ego4d": 48
+   },
+   "turns_per_record": {
+    "n": 5753,
+    "min": 1.0,
+    "median": 5.0,
+    "mean": 4.3,
+    "max": 5.0,
+    "sum_hours": 6.8
+   }
+  }
+ }
+}

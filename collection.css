@@ -95,9 +95,11 @@ table.grouped tr.group:first-child th { padding-top: 0.6rem; }
 table.grouped tr.group th span { font-weight: 400; color: var(--ink-2); }
 
 /* evaluation metrics: name, then how it is computed */
-.eval-intro { max-width: var(--measure); color: var(--ink-2); font-size: 0.9375rem; margin: 0 0 0.75rem; }
 dl.metrics { display: grid; grid-template-columns: minmax(10rem, max-content) minmax(0, 1fr); column-gap: 1.25rem; row-gap: 0.45rem; margin: 0 0 1rem; font-size: 0.9375rem; }
 dl.metrics dt { font-weight: 600; }
 dl.metrics dd { margin: 0; }
 @media (max-width: 40rem) { dl.metrics { grid-template-columns: 1fr; row-gap: 0.15rem; } dl.metrics dd { margin-bottom: 0.5rem; } }
 @media (min-width: 62rem) { dl.metrics { width: calc(100% + var(--margin) + var(--gap)); } }
+.formula { margin: 0.3rem 0 0.2rem; overflow-x: auto; }
+.formula .katex-display { margin: 0.2rem 0; text-align: left; }
+.formula .katex-display > .katex { text-align: left; font-size: 1.02em; }

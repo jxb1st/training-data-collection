@@ -54,6 +54,7 @@ table.answers .a { color: var(--accent); font-weight: 600; }
 .turn-a { color: var(--ink-2); }
 ul.points { margin: 0.1rem 0 0.6rem; padding-left: 1.2rem; font-size: 0.9375rem; }
 .s-media video, .s-media img { display: block; width: 100%; height: auto; background: var(--field); }
+.s-media video { max-height: 24rem; }   /* portrait videos stay compact; the player letterboxes */
 .s-media img.strip { margin-bottom: 0.5rem; }
 .mediacap { font-size: 0.8125rem; color: var(--ink-2); margin: 0.45rem 0 0; line-height: 1.45; }
 .nomedia { aspect-ratio: 16 / 9; display: flex; align-items: center; justify-content: center; padding: 1rem; text-align: center; background: var(--field); color: var(--ink-2); font-size: 0.875rem; }

@@ -84,6 +84,8 @@ ul.taskgrid .tg-sub { flex-basis: 100%; font-size: 0.8125rem; color: var(--ink-3
 .group-desc { max-width: var(--measure); margin: 0.4rem 0 1rem; font-size: 1rem; color: var(--ink-2); }
 .group-note { max-width: var(--measure); font-size: 0.9375rem; color: var(--ink-2); margin: 1rem 0 0; }
 ul.statlines { margin: 0 0 0.75rem; padding-left: 1.2rem; max-width: var(--measure); }
+.stat-label { font-size: 0.8125rem; color: var(--ink-2); margin: 1.25rem 0 0; }
+.stat-label + ul.taskgrid { margin-top: 0.3rem; }
 ul.statlines li { margin: 0.25rem 0; }
 
 /* overview table grouped by category */

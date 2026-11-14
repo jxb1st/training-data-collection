@@ -69,3 +69,8 @@ ul.taskgrid .tg-sub { flex-basis: 100%; font-size: 0.8125rem; color: var(--ink-3
 .group-note { max-width: var(--measure); font-size: 0.9375rem; color: var(--ink-2); margin: 1rem 0 0; }
 ul.statlines { margin: 0 0 0.75rem; padding-left: 1.2rem; max-width: var(--measure); }
 ul.statlines li { margin: 0.25rem 0; }
+
+/* overview table grouped by category */
+table.grouped tr.group th { text-align: left; font-weight: 600; padding-top: 1.4rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--ink-3); }
+table.grouped tr.group:first-child th { padding-top: 0.6rem; }
+table.grouped tr.group th span { font-weight: 400; color: var(--ink-2); }

@@ -17,7 +17,11 @@
     "value": "The video begins with an elderly man dressed in a white traditional outfit standing in a room. He is facing a wooden desk cluttered with various items, including books, a yellow ball, and a framed photograph. The room is decorated with a bed featuring a patterned bedspread, a chair, and a window with yellow curtains adorned with floral designs. The man appears to be looking at the items on the desk. He reaches out to pick up the framed photograph from the desk and holds it close to his chest, appearing to be in a moment of reflection or sentimentality. The scene continues with the elderly man still holding the framed photograph close to his chest, standing near the wooden desk. The room's decor remains unchanged, with the same bed, chair, and window with yellow floral curtains. The man looks upwards, possibly in deep thought or reflection, maintaining his reflective posture. The video wraps up with the man still standing near the desk, holding the photograph and looking upwards, lost in his thoughts."
    }
   ],
-  "clip": "llava/caption-0dd62.mp4"
+  "clip": "llava/caption-0dd62.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -37,7 +41,11 @@
     "value": "The video begins with a view of a cozy room featuring a bed adorned with a green bedspread, several pillows in blue and patterned designs, a pink bag, a remote control, and some magazines or newspapers. The wall behind the bed is decorated with a calendar and some papers pinned to it. A person wearing a dark green hoodie and blue jeans enters the scene and sits on the bed. They put on a pair of blue and white slippers, adjust their position, and reach for the remote control, appearing ready to use it.\n\nThe scene continues with the same person sitting on the bed, surrounded by the same items. They adjust their position, lie down, and reach towards the pink bag, searching for something inside. After a few moments, they retrieve a small bowl from the bag and sit back up, placing the bowl on the bed beside them. The person then holds a small object in their hand, examining it closely.\n\nThe video wraps up with the person still sitting on the bed, now holding the small object and examining it closely. The room's details remain consistent, with the calendar and papers on the wall, and the various items around the bed. The person places the small object on the bed beside them and reaches for the remote control, seemingly ready to use it."
    }
   ],
-  "clip": "llava/caption-w7edm.mp4"
+  "clip": "llava/caption-w7edm.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -57,7 +65,11 @@
     "value": "The video begins with a view of a room featuring a wooden closet with its door open, revealing various clothes hanging and stacked inside. A person wearing a light blue sweatshirt and dark pants enters the frame and approaches the closet. The person starts by reaching up to the top shelf of the closet, adjusting and moving some clothes around. They then take a piece of clothing from the hanging section and examine it. The person continues to handle the clothing, seemingly organizing or deciding on an outfit. The room also contains a bed with a wooden headboard, a small table with a brass lamp, and a green wall with a light switch. The scene continues with the person still in front of the open closet, holding a piece of clothing in their hands and examining it. They reach up to the top shelf of the closet again, moving some clothes around. They take another piece of clothing from the top shelf and continue to hold and examine the clothes, seemingly organizing or deciding on an outfit. The video maintains this focus on the person organizing or deciding on an outfit in the same room, with the same elements: the wooden closet, bed with a wooden headboard, small table with a brass lamp, and green wall with a light switch. The person remains in front of the open closet, holding and examining pieces of clothing, reaching up to the top shelf, moving clothes around, and continuing to organize or decide on an outfit."
    }
   ],
-  "clip": "llava/caption-75rpn.mp4"
+  "clip": "llava/caption-75rpn.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -77,7 +89,11 @@
     "value": "The video showcases a vibrant dance performance by a group of six young individuals on a stage with a wooden floor and maroon curtains. The backdrop features a large flag with a blue sky and white sun emblem, and a portrait of a person, suggesting a setting of cultural or national significance. The dancers, dressed casually in jeans, jackets, and sneakers, perform a series of synchronized dance moves, including steps, turns, and hand gestures. The dynamic nature of their performance is highlighted through various moments captured in the sequence. The setting appears to be an indoor auditorium or school hall, with chairs and a microphone stand visible in the background, indicating a formal or semi-formal event. The video emphasizes the coordination and energy of the dancers, creating an engaging and lively atmosphere throughout the performance."
    }
   ],
-  "clip": "llava/caption-1028-8318310610.mp4"
+  "clip": "llava/caption-1028-8318310610.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -97,7 +113,11 @@
     "value": "The video features a heartwarming scene of a child in a cozy indoor setting, celebrating their first Christmas. The child is dressed in green pajamas with a white bib and a festive red and white Santa hat embroidered with the text 'My First Christmas' and a small Christmas tree. The room is filled with various toys, including a red toy fire truck, a colorful activity cube, and a blue toy bin, all illuminated by natural light streaming through the windows. The dining area with a table and chairs is visible in the background.\n\nThe child is seen moving around the room, adjusting the Santa hat on their head, and exploring their surroundings. The living area includes a black couch and a white cabinet, adding to the cozy atmosphere. The child eventually gravitates towards the toys, engaging with them and displaying a sense of curiosity and joy.\n\nIn the final part of the video, the child is shown crouching and playing with a yellow toy xylophone on the floor. After a moment of focused play, the child stands up and begins to walk around the room, continuing their exploration. The video wraps up with the child walking towards the dining area, moving away from the toys, capturing a tender moment of discovery and festive cheer."
    }
   ],
-  "clip": "llava/caption-0007-5334449560.mp4"
+  "clip": "llava/caption-0007-5334449560.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -117,7 +137,11 @@
     "value": "The video begins with a baby lying on a carpeted floor, joyfully holding and playing with a soft toy. The baby is dressed in a light-colored, sleeveless outfit adorned with pink and white stripes. In the background, a person dressed in black is busy working at a kitchen counter. The kitchen is equipped with wooden cabinets, a white dishwasher, and a black and silver trash can. As the baby continues to play, a cat with a mix of brown and black fur walks into the frame from the right side, adding a touch of curiosity to the scene. The video develops with the baby still engaged with the soft toy, maintaining the same playful demeanor. The background remains unchanged, with the person in black continuing their tasks at the kitchen counter. The cat is now seen walking in the background, near the kitchen area, subtly enhancing the domestic atmosphere. The video wraps up with a consistent scene of the baby on the carpeted floor, still in the same light-colored, sleeveless outfit with pink and white stripes. The person in black is still present in the background, working at the kitchen counter, and the kitchen setting remains the same with its wooden cabinets, white dishwasher, and black and silver trash can. The cat's presence in the background ties the clips together, creating a coherent and heartwarming narrative of a peaceful domestic moment."
    }
   ],
-  "clip": "llava/caption-1052-13028692904.mp4"
+  "clip": "llava/caption-1052-13028692904.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -137,7 +161,11 @@
     "value": "The video takes place in a cozy living room, where a child wearing a light blue shirt is seen interacting joyfully with a small white dog. The child holds a piece of food, which the dog eagerly tries to reach, creating a playful and heartwarming scene. In the background, two large stuffed toys of Mickey Mouse and Minnie Mouse are placed on a shelf, adding a touch of whimsy to the room. A person in a dark green sweatshirt with white text is also present, holding another piece of food, possibly to assist in the interaction. The room exudes a warm and homely atmosphere, with a television and other furniture visible, enhancing the sense of a lived-in, comfortable space. The child moves around, showing the food to the dog, clearly enjoying the playful moment."
    }
   ],
-  "clip": "llava/caption-v-cixarkhjav8.mp4"
+  "clip": "llava/caption-v-cixarkhjav8.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -157,7 +185,11 @@
     "value": "The video begins with a nighttime scene at a rodeo arena, where several people, some wearing cowboy hats, are gathered around a fenced area. A man in a white shirt and cowboy hat prepares to ride a horse. As he exits the gate, he skillfully chases and ropes a calf while riding the horse. The man then dismounts and runs towards the calf, holding the rope to secure it. The background is illuminated by artificial lights, with other spectators and participants watching the event.\n\nThe scene continues with the man in the white shirt and cowboy hat securing the roped calf. Kneeling on the ground, he holds the calf down while several spectators and participants, some standing and others sitting on the bleachers, observe. A horse, still attached to the rope, stands nearby. The man successfully ties the calf's legs together and stands up, signaling the completion of his task. He then walks away from the calf, with the audience continuing to watch the event.\n\nThe final scene shows the man in the white shirt and cowboy hat standing near the horse, which remains attached to the rope tied to the calf lying on the ground. Another man, also in a cowboy hat, adjusts the saddle of the horse. The background features several spectators and participants, some sitting on the bleachers and others standing. The man in the white shirt mounts the horse, preparing to continue the rodeo event. The video concludes with the man on the horse, ready to proceed, while the calf remains tied on the ground and the spectators observe the scene."
    }
   ],
-  "clip": "llava/caption-v-camghiqmnaw.mp4"
+  "clip": "llava/caption-v-camghiqmnaw.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -177,7 +209,11 @@
     "value": "The video begins with a man in a purple sweater and pink shirt standing in front of a large audience, participating in a darts competition. The text 'ON THE OCHE' and 'TV Times Pro-Am Darts' appears on the screen, indicating the event and its broadcast. The scene transitions to a woman in a black jacket and white shirt, also participating in the competition, with the same text displayed. Another man in a dark jacket and white shirt is shown next, also in front of an audience, participating in the competition. The scene then widens to show the darts competition area, featuring a man in a yellow shirt and black pants standing near a dartboard, and another man in a white shirt and blue pants retrieving darts from the board. The background includes a Christmas tree and a sign that reads 'British Darts Organisation' and 'Unicorn,' adding a festive atmosphere to the event.\n\nThe video continues to focus on the darts competition area. The man in the yellow shirt and black pants remains near the dartboard, while the man in the white shirt and blue pants walks away from it. A child in a dark outfit with a white collar is also present, engaged in the scene. The festive atmosphere is maintained with the Christmas tree and decorations, and a sign that reads 'British Darts Organisation' and 'Unicorn' is visible in the background. Another man, seated and wearing a dark suit, is seen writing or recording something at a table, adding to the event's official nature.\n\nThe video then shows a close-up of the dartboard with several darts stuck in it. The focus shifts to the child in the dark outfit, who is being guided by a man in a patterned shirt and tie. The man appears to be encouraging or instructing the child, providing a heartwarming moment in the competition. The video concludes with a close-up of the child, with the man still offering guidance, highlighting the supportive and inclusive nature of the event."
    }
   ],
-  "clip": "llava/caption-v-iiqq8xzvzok.mp4"
+  "clip": "llava/caption-v-iiqq8xzvzok.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -197,7 +233,11 @@
     "value": "The video begins with a person standing outdoors on a patch of dirt and grass, dressed in a white shirt with a graphic design and tan pants. They are holding a small digital scale with a blue screen. Scattered around them are various items, including a large black bucket, a white plastic container, a white cup, a green bottle, and a packet of 'Тройной' (Troynoy) detergent. The person places the digital scale on the ground and starts measuring a substance, carefully pouring it into a small container on the scale to ensure the correct measurement. The scene develops as the person adjusts the amount of the substance on the scale, likely aiming for precision.\n\nThe perspective shifts to a top-down view of the same person, now sitting on the same patch of dirt and grass. The digital scale with the blue screen is still on the ground, surrounded by the same scattered items. The person is now measuring a green liquid substance using the digital scale, adjusting the amount in the small container to achieve the correct measurement. They then pick up the packet of 'Тройной' (Troynoy) detergent and begin pouring its contents into the container on the scale, focusing on achieving a precise measurement. The video wraps up with the person continuing to pour the detergent, emphasizing the meticulous process of measurement."
    }
   ],
-  "clip": "llava/caption-5c9e8ad1-135f-4f01-a498-274835fba320.mp4"
+  "clip": "llava/caption-5c9e8ad1-135f-4f01-a498-274835fba320.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -217,7 +257,11 @@
     "value": "The video showcases a detailed and vibrant cooking process, beginning with a close-up of a hand reaching into a glass bowl filled with sliced cucumbers and red bell peppers. The scene is set on a wooden cutting board, surrounded by various fresh ingredients such as yellow bell pepper strips, sliced red and green chili peppers, fresh herbs, and a pile of white noodles. Bottles of sauces, including one labeled 'Blue Dragon,' are visible in the background, indicating the use of diverse flavors in the dish. The hand meticulously assembles the dish by placing the sliced cucumbers and red bell peppers onto a bed of white noodles, followed by adding yellow bell pepper strips. The focus remains on the careful arrangement of the ingredients, emphasizing the freshness and vibrant colors of the components used in the preparation."
    }
   ],
-  "clip": "llava/caption-406-mit0yvvc2iy-split-3.mp4"
+  "clip": "llava/caption-406-mit0yvvc2iy-split-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -237,7 +281,11 @@
     "value": "The video features a woman in a kitchen, dressed in a green long-sleeved shirt, engaged in the process of preparing food. The kitchen is well-equipped with wooden cabinets, a black countertop, and a window that offers a view of lush greenery outside. Spread across the counter are various kitchen utensils and ingredients, including a red pot, a measuring cup, a whisk, and containers filled with chopped ingredients. Decorative elements such as a basket of bread and a vase with flowers add a homely touch to the setting. The woman is seen stirring a mixture in a large transparent bowl with an orange spatula. She continues to mix the contents diligently, surrounded by the organized chaos of her cooking preparations. As she stirs, the scene remains consistent, with the same kitchen setup and decorative elements. Eventually, she stops stirring and lifts the bowl, seemingly ready to transfer the mixture. She glances around the kitchen, possibly contemplating her next step in the cooking process, bringing a sense of anticipation and focus to the culinary task at hand."
    }
   ],
-  "clip": "llava/caption-106-uhmklq2oktm-split-2.mp4"
+  "clip": "llava/caption-106-uhmklq2oktm-split-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "caption",
@@ -257,7 +305,11 @@
     "value": "The video begins with a close-up of a pan containing sautéed onions and green curry leaves, which are being cooked until they are caramelized. A hand holding a bowl filled with chopped boiled potatoes then adds them to the pan with the sautéed onions, using a wooden spatula to scrape the remaining potatoes from the bowl. The pan is now filled with a mixture of sautéed onions and a generous amount of boiled potatoes, ready to be further cooked or mixed. The scene develops as a hand holding a wooden spatula stirs the mixture, ensuring that the potatoes are well combined with the sautéed onions and curry leaves. The ingredients are mixed thoroughly, making sure that the potatoes are evenly distributed and coated with the flavors from the onions and curry leaves. The mixture in the pan appears well-mixed and ready for the next step in the cooking process. The video wraps up with a close-up of the pan filled with the mixture of sautéed onions, green curry leaves, and boiled potatoes. The hand continues to stir the mixture vigorously, ensuring that the ingredients are well combined. The onions show a caramelized texture and the potatoes take on a golden hue, indicating that the mixture is cooking well. The video concludes with the mixture in the pan appearing well-mixed and ready for the next step in the cooking process."
    }
   ],
-  "clip": "llava/caption-425-gjzutxdvqce-split-8.mp4"
+  "clip": "llava/caption-425-gjzutxdvqce-split-8.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -293,7 +345,11 @@
     "value": "A red and white striped bag is placed on one of the steps."
    }
   ],
-  "clip": "llava/open-ended-0mk2c.mp4"
+  "clip": "llava/open-ended-0mk2c.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -329,7 +385,11 @@
     "value": "The person in the red shirt stands up, walks towards the dining area, picks up a small electronic device, and then focuses on it intently."
    }
   ],
-  "clip": "llava/open-ended-58ya5.mp4"
+  "clip": "llava/open-ended-58ya5.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -365,7 +425,11 @@
     "value": "The main settings of the video are a laundry room and another room where a person is sitting on a wooden stool eating."
    }
   ],
-  "clip": "llava/open-ended-o3sqk.mp4"
+  "clip": "llava/open-ended-o3sqk.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -401,7 +465,11 @@
     "value": "The baby is lying on a carpeted floor, joyfully holding and playing with a soft toy."
    }
   ],
-  "clip": "llava/open-ended-1052-13028692904.mp4"
+  "clip": "llava/open-ended-1052-13028692904.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -437,7 +505,11 @@
     "value": "The first action the cowboy performs is riding a horse at high speed at the rodeo event."
    }
   ],
-  "clip": "llava/open-ended-1102-9177467036.mp4"
+  "clip": "llava/open-ended-1102-9177467036.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -473,7 +545,11 @@
     "value": "One passerby is wearing a green shirt and beige pants, carrying a woven bag."
    }
   ],
-  "clip": "llava/open-ended-0016-4987887725.mp4"
+  "clip": "llava/open-ended-0016-4987887725.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -509,7 +585,11 @@
     "value": "The dog weaves through Jim's legs and jumps onto his back."
    }
   ],
-  "clip": "llava/open-ended-v-goxkohysku8.mp4"
+  "clip": "llava/open-ended-v-goxkohysku8.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -545,7 +625,11 @@
     "value": "Another player is described as wearing a gray shirt and dark shorts."
    }
   ],
-  "clip": "llava/open-ended-v-7p99ez6meeo.mp4"
+  "clip": "llava/open-ended-v-7p99ez6meeo.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -581,7 +665,11 @@
     "value": "The person is dressed in a white shirt with a graphic design and tan pants."
    }
   ],
-  "clip": "llava/open-ended-5c9e8ad1-135f-4f01-a498-274835fba320.mp4"
+  "clip": "llava/open-ended-5c9e8ad1-135f-4f01-a498-274835fba320.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -617,7 +705,11 @@
     "value": "The person is preparing a squid for cooking by cutting it into pieces, rings, and strips."
    }
   ],
-  "clip": "llava/open-ended-107-5i-ujq0t1o-split-2.mp4"
+  "clip": "llava/open-ended-107-5i-ujq0t1o-split-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -653,7 +745,11 @@
     "value": "The chicken pieces are added one by one, covering the surface of the sauce."
    }
   ],
-  "clip": "llava/open-ended-401-67ilysu8ceu-split-3.mp4"
+  "clip": "llava/open-ended-401-67ilysu8ceu-split-3.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "open-ended",
@@ -689,7 +785,11 @@
     "value": "The presence of a package of Mission Tortilla Rounds, some yellow items in a plastic bag, and a plate with a poppy seed-covered bread roll suggests that a meal is being prepared."
    }
   ],
-  "clip": "llava/open-ended-124-qob709gwce8-split-2.mp4"
+  "clip": "llava/open-ended-124-qob709gwce8-split-2.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "multiple-choice",
@@ -725,7 +825,11 @@
     "value": "B. To reach under the cabinets and appliances."
    }
   ],
-  "clip": "llava/multiple-choice-cx5zm.mp4"
+  "clip": "llava/multiple-choice-cx5zm.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "multiple-choice",
@@ -761,7 +865,11 @@
     "value": "B. They inspect the mess on the floor."
    }
   ],
-  "clip": "llava/multiple-choice-3eirz.mp4"
+  "clip": "llava/multiple-choice-3eirz.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "multiple-choice",
@@ -797,7 +905,11 @@
     "value": "A."
    }
   ],
-  "clip": "llava/multiple-choice-xf93d.mp4"
+  "clip": "llava/multiple-choice-xf93d.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "multiple-choice",
@@ -833,7 +945,11 @@
     "value": "C."
    }
   ],
-  "clip": "llava/multiple-choice-1201-2704413711.mp4"
+  "clip": "llava/multiple-choice-1201-2704413711.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "multiple-choice",
@@ -869,7 +985,11 @@
     "value": "B."
    }
   ],
-  "clip": "llava/multiple-choice-203-qh-rtjacpxs-split-6.mp4"
+  "clip": "llava/multiple-choice-203-qh-rtjacpxs-split-6.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "multiple-choice",
@@ -905,7 +1025,11 @@
     "value": "A."
    }
   ],
-  "clip": "llava/multiple-choice-230-ay55c3jsbei-split-1.mp4"
+  "clip": "llava/multiple-choice-230-ay55c3jsbei-split-1.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  },
  {
   "group": "multiple-choice",
@@ -941,6 +1065,10 @@
     "value": "B."
    }
   ],
-  "clip": "llava/multiple-choice-422-pqyqb-fkwrq-split-0.mp4"
+  "clip": "llava/multiple-choice-422-pqyqb-fkwrq-split-0.mp4",
+  "full_video": {
+   "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/0_30_s_academic_v0_1",
+   "label": "inside the 0_30_s_academic archive on the Hub"
+  }
  }
 ]

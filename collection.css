@@ -13,7 +13,7 @@ dl.kv dd { margin: 0; overflow-wrap: anywhere; }
 dl.kv ul { margin: 0; padding-left: 1.1rem; }
 
 /* answer options; the correct one is marked */
-ol.opts { list-style: none; padding: 0; margin: 0.2rem 0 0.6rem; font-size: 0.9375rem; }
+ol.opts { list-style: none; padding: 0; margin: 0.1rem 0 0.7rem; font-size: 0.9375rem; }
 ol.opts li { padding: 0.1rem 0 0.1rem 0.6rem; border-left: 2px solid transparent; }
 ol.opts li.ans { border-left-color: var(--accent); font-weight: 600; }
 ol.opts li.ans::after { content: " correct"; font-weight: 400; color: var(--accent); font-size: 0.875rem; }
@@ -32,14 +32,30 @@ dl.kv ol.seq { margin: 0; }
 .turn.gpt { border-left-color: var(--accent); }
 .turn > span { display: block; font-size: 0.8125rem; color: var(--ink-2); }
 
-/* one example */
-.samples { display: grid; gap: 1.5rem; margin: 0.5rem 0 1rem; }
-.sample { display: grid; grid-template-columns: 18rem minmax(0, 1fr); gap: 1rem 1.5rem; padding-top: 1rem; border-top: 1px solid var(--rule); }
+/* one example: video on the left, the request and its correct answer on the right */
+.samples { display: grid; gap: 1.75rem; margin: 0.5rem 0 1rem; }
+.sample { display: grid; grid-template-columns: 22rem minmax(0, 1fr); gap: 1rem 2rem; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
 .sample h4 { font-size: 1.0625rem; font-weight: 600; margin: 0 0 0.15rem; }
-.s-meta { font-size: 0.875rem; color: var(--ink-2); margin: 0 0 0.6rem; }
+.s-body { font-size: 1rem; line-height: 1.5; }
+.s-meta { font-size: 0.8125rem; color: var(--ink-3); margin: 0 0 0.55rem; }
+.when { display: block; font-size: 0.8125rem; color: var(--ink-2); margin-bottom: 0.1rem; }
+.ask { margin: 0 0 0.7rem; }
+.ans-line { margin: 0.2rem 0 0.7rem; padding-left: 0.6rem; border-left: 2px solid var(--accent); font-weight: 600; }
+.ans-line .when { font-weight: 400; }
+table.answers { border-collapse: collapse; width: 100%; margin: 0.2rem 0 0.8rem; font-size: 0.9375rem; }
+table.answers caption { caption-side: top; text-align: left; font-size: 0.8125rem; color: var(--ink-2); padding: 0 0 0.25rem; }
+table.answers th { text-align: left; font-weight: 400; font-size: 0.8125rem; color: var(--ink-3); padding: 0 0.75rem 0.15rem 0; border-bottom: 1px solid var(--ink-3); }
+table.answers td { padding: 0.2rem 0.75rem 0.2rem 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+table.answers th:first-child { white-space: nowrap; width: 1%; }
+table.answers td.t { white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--ink-2); width: 1%; }
+table.answers .a { color: var(--accent); font-weight: 600; }
+.s-facts { font-size: 0.875rem; color: var(--ink-2); margin: 0 0 0.5rem; }
+.opts-cap { font-size: 0.8125rem; color: var(--ink-2); margin: 0.5rem 0 0; }
+.turn-a { color: var(--ink-2); }
+ul.points { margin: 0.1rem 0 0.6rem; padding-left: 1.2rem; font-size: 0.9375rem; }
 .s-media video, .s-media img { display: block; width: 100%; height: auto; background: var(--field); }
 .s-media img.strip { margin-bottom: 0.5rem; }
-.mediacap { font-size: 0.8125rem; color: var(--ink-2); margin: 0.4rem 0 0; }
+.mediacap { font-size: 0.8125rem; color: var(--ink-2); margin: 0.45rem 0 0; line-height: 1.45; }
 .nomedia { aspect-ratio: 16 / 9; display: flex; align-items: center; justify-content: center; padding: 1rem; text-align: center; background: var(--field); color: var(--ink-2); font-size: 0.875rem; }
 @media (max-width: 48rem) { .sample { grid-template-columns: 1fr; } }
 
